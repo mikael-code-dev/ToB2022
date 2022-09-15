@@ -347,6 +347,7 @@ static void MultiplicationTable()
     }
 }
 
+// Quick Sort.
 static void MyArraySort(int[] arr, int startIndex, int lastIndex)
 {
     int x = startIndex;
